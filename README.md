@@ -1,0 +1,2 @@
+# Neural Style Transfer Using Pre-trained VGG19 Model
+Implemented Neural Style Transfer (NST) using pre-trained VGG19 model for feature extraction and optimization algorithms such as Adam, Adagrad, and RMSprop. Used Gaty's loss functions for content and style, achieving visually appealing compositions by combining content and style images. Analyzed optimization algorithms' performance in terms of convergence speed and output quality.
